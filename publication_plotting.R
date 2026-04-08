@@ -106,7 +106,7 @@ p <- ggplot() +
   
   # Define Y-axis scale
   scale_y_continuous(
-    breaks = seq(0, 50, by = 5), 
+    breaks = seq(0, 60, by = 5), 
     expand = expansion(mult = c(0, 0.15)) 
   ) +
   
